@@ -1,0 +1,14 @@
+{
+  "name": "bell",
+  "version": "0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "strifel",
+  "license": "MIT",
+  "dependencies": {
+    "node-notifier": "^5.4.0"
+  }
+}
